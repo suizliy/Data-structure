@@ -1,3 +1,3 @@
 # Data-structure course 
 
-#sorting problems , linked list , queing , trees , 
+#sorting problems , linked list , queueing , trees , 
